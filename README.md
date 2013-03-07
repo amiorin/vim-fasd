@@ -4,8 +4,8 @@ It allows you to change the current directory of vim using fasd.
 
 ## Usage
 ```vim
-:Z<cr>       ; interactive directory selection
-:Z dir1 dir2 ; cd, same functionality as j in autojump
+:Z           " interactive directory selection
+:Z dir1 dir2 " cd, same functionality as j in autojump
 ```
 
 ## Install
@@ -19,3 +19,8 @@ Vundle 'amiorin/vim-fasd'
 # shell
 brew install fasd
 ```
+
+## Reference
+* [fasd](https://github.com/clvv/fasd)
+* [tlib](http://www.vim.org/scripts/script.php?script_id=1863)
+* [.vimrc](https://github.com/clvv/dotfiles/blob/master/.vimrc)
