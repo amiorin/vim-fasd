@@ -10,7 +10,7 @@ It allows you to change the current directory of vim using fasd.
 
 ## Install
 ```vim
-; .vimrc
+" .vimrc
 Vundle 'tomtom/tlib_vim'
 Vundle 'amiorin/vim-fasd'
 ```
