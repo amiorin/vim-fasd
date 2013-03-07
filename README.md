@@ -1,6 +1,6 @@
 # Introduction
 This vim plugin was extracted from the .vimrc of the author of fasd
-It allows you to change the current directory of vim using fasd.
+It allows you to change the current directory of vim using fasd and it open NERDTree window
 
 ## Usage
 ```vim
