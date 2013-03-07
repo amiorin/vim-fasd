@@ -1,6 +1,7 @@
 # Introduction
-This vim plugin was extracted from the .vimrc of the author of fasd
-It allows you to change the current directory of vim using fasd and it open NERDTree window
+This vim plugin was extracted from the .vimrc of the author of fasd.
+
+It allows you to change the current directory of vim using fasd and then it open NERDTree window in new working directory.
 
 ## Usage
 ```vim
@@ -19,6 +20,14 @@ Bundle 'scrooloose/nerdtree'
 ```sh
 # shell
 brew install fasd
+```
+
+```sh
+# .zshrc
+# fasd uses a s d f z zz sd sf
+eval "$(fasd --init auto)"
+alias v="f -e mvim"
+alias o='a -e open'
 ```
 
 ## Reference
