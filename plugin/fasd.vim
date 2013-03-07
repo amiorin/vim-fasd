@@ -14,5 +14,6 @@ function! Z(...)
   if isdirectory(path)
     echo path
     exec 'cd ' . path
+    exec 'NERDTree .'
   endif
 endfunction

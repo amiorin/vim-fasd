@@ -11,8 +11,9 @@ It allows you to change the current directory of vim using fasd.
 ## Install
 ```vim
 " .vimrc
-Vundle 'tomtom/tlib_vim'
-Vundle 'amiorin/vim-fasd'
+Bundle 'tomtom/tlib_vim'
+Bundle 'amiorin/vim-fasd'
+Bundle 'scrooloose/nerdtree'
 ```
 
 ```sh
@@ -24,3 +25,4 @@ brew install fasd
 * [fasd](https://github.com/clvv/fasd)
 * [tlib](http://www.vim.org/scripts/script.php?script_id=1863)
 * [.vimrc](https://github.com/clvv/dotfiles/blob/master/.vimrc)
+* [nerdtree](https://github.com/scrooloose/nerdtree)
