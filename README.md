@@ -1,4 +1,6 @@
 # Introduction
+**If you use [CtrlP][2], use this plugin [amiorin/ctrlp-z][1]**
+
 This vim plugin was extracted from the .vimrc of the author of fasd.
 
 It allows you to change the current directory of vim using fasd and then it open NERDTree window in new working directory.
@@ -35,3 +37,6 @@ alias o='a -e open'
 * [tlib](http://www.vim.org/scripts/script.php?script_id=1863)
 * [.vimrc](https://github.com/clvv/dotfiles/blob/master/.vimrc)
 * [nerdtree](https://github.com/scrooloose/nerdtree)
+
+[1]: https://github.com/amiorin/ctrlp-z
+[2]: https://github.com/kien/ctrlp.vim
