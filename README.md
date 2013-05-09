@@ -40,3 +40,7 @@ alias o='a -e open'
 
 [1]: https://github.com/amiorin/ctrlp-z
 [2]: https://github.com/kien/ctrlp.vim
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/amiorin/vim-fasd/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
